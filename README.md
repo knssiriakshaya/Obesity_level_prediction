@@ -1,5 +1,5 @@
 # **Predicting Obesity Levels Using Machine Learning and Deep Learning Methods**  
-*Infosys Springboard 5.0 Project*  
+*Infosys Springboard Internship 5.0 Project*  
 
 ---
 
